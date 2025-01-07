@@ -1,2 +1,2 @@
 # Simple-Omelette-Recipe
-Práctica de página con HTML y CSS -Listas, Tablas y Estilos-
+Ejercicio de práctica. Página con HTML y CSS -Listas, Tablas y Estilos-
